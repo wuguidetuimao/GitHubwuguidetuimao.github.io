@@ -1,7 +1,7 @@
 ## **今天学习了MarkDown**
 #### MarkDown是一种超文本语言，今天我第一次学习了它。
 
-hello MarkDown！
+Hello MarkDown！
 
 #### 接下来我还会学习：
 
@@ -15,4 +15,4 @@ Geek是指极客，通常被用于形容对计算机和网络技术有狂热兴�
 
 有点意思，下面这张gif可以形容我的心情：
 
-![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gifu)
+![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
